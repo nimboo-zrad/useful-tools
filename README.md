@@ -1,7 +1,7 @@
 # Useful tools
 explaining useful tools and commands for everyday tasks!
 
-### **1. pdftk:**
+### 1. pdftk:
 it stands for pdf toolkit and is a versataile command-line utility designed for manipulating pdf files.
 
 you can do many things including:
