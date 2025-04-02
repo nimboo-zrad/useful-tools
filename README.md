@@ -1,7 +1,7 @@
 # Useful tools
 explaining useful tools and commands for everyday tasks!
 
-### pdftk: 
+### ** 1. pdftk: **
 it stands for pdf toolkit and is a versataile command-line utility designed for manipulating pdf files.
 
 you can do many things including:
@@ -18,6 +18,7 @@ you can do many things including:
 this command will split pdf file into single pages. 
 
   * you can use %d to automate the naming process: `pdftk input.pdf burst output pages%d.pdf` it outputs pages in pdf format with the names like page1.pdf, page2.pdf, etc...
+`pdftk input.pdf burst output page%d.pdf`
 
 3. Rotating pages:
 
